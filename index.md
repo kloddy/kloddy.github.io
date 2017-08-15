@@ -13,7 +13,7 @@
  It is a site that passionate players use to upload created custom maps, spells,
  and other custom graphical details for Warcraft 3.
  I learned a lot about programming basics by tinkering with the World Editor that was provided with the game.
- I made two submissions on the site; one involved a pack of spells to be used in a custom map, and the other was a re-creation of an ability from World of Warcraft. The forum moderators are very picky about the types of submissions they approve, but both of mine were approved. You can view them [here](https://www.hiveworkshop.com/threads/disarm-v1-0.155163/) and [here](https://www.hiveworkshop.com/threads/death-grip-v1-02-final.155610/)
+ I made two submissions on the site; one involved a pack of spells to be used in a custom map, and the other was a re-creation of an ability from World of Warcraft. The forum moderators are very picky about the types of submissions they approve, but both of mine were approved. You can view them by clicking [here](https://www.hiveworkshop.com/threads/disarm-v1-0.155163/) or [here](https://www.hiveworkshop.com/threads/death-grip-v1-02-final.155610/).
  This further blossomed into a healthy interest in computer science which lead me to get my Associates degree in Computer Information Systems.
 
 # Website Made Using Jekyll
