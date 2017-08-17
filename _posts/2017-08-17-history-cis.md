@@ -13,9 +13,6 @@ I made two submissions on the site; one involved a pack of spells to be used in 
 This further blossomed into a healthy interest in computer science which lead me to get my Associates degree in Computer Information Systems.
 
 
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
